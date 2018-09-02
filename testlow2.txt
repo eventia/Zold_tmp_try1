@@ -1,2 +1,4 @@
-test text 
-주석처리
+
+colaboratory 
+a.i.
+machine learning
